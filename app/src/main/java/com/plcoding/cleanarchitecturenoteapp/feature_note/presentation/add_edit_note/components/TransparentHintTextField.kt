@@ -11,7 +11,6 @@ import androidx.compose.ui.focus.onFocusChanged
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.TextStyle
 
-// TODO 1.57.13초부터 다시 봐야함.
 @Composable
 fun TransparentHintTextField(
     text: String,
